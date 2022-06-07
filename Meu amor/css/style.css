@@ -1,0 +1,43 @@
+/*-- Body Reset --*/
+body {
+    overflow-x: hidden;
+    color: #ffffff;
+    background-color: rgb(12, 12, 12);
+  }
+
+@font-face{
+  font-family: 'ka1';
+  src: url('ka1.ttf');
+}
+
+.fonte{
+  font-family: ka1;
+}
+
+.bg-black{
+  background-color: rgb(12, 12, 12);
+}
+
+.bg-sem{
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.text-roxo{
+  color: #54139e;
+}
+
+.mat{
+  margin-top: 10px;
+}
+
+.texto-frente{
+  position:relative;
+}
+
+.cor{
+  color: wheat;
+}
+
+.espa{
+  letter-spacing: 4px;
+}
